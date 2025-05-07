@@ -1,4 +1,4 @@
-module tianai-zip
+module zip-cmd
 
 go 1.23.9
 
